@@ -8,12 +8,12 @@
 
 # Main Site 
 - list:
-    - bigger
-    - each Link different color
+    - bigger (/)
+    - each Link different color (/)
 
 # Recipes Sites
-- Heading blue
-- List Elemtents green */
+- List Heading (h3) blue (/)
+- Ingredient list elemtents green (/) */
 
 body{
     font-family: Arial, Helvetica, sans-serif;
@@ -38,4 +38,12 @@ h1{
 
 #l3{
     color: green;
+}
+
+h3{
+    color: brown;
+}
+
+ul{
+    color: rgb(249, 75, 226);
 }
