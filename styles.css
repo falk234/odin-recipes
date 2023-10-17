@@ -1,8 +1,8 @@
 /* ### Todo ###
 
 # All
-- same font-family
-- heading:
+- same font-family (/)
+- heading h1: (/)
     - Bolt
     - much bigger
 
@@ -15,3 +15,27 @@
 - Heading blue
 - List Elemtents green */
 
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    font-weight: bold;
+    font-size: 50px;
+}
+
+.index_list{
+    font-size: 30px;
+}
+
+#l1{
+    color: red;
+}
+
+#l2{
+    color: blue;
+}
+
+#l3{
+    color: green;
+}
